@@ -1,13 +1,9 @@
 {
   "web": {
-    "baseUrl":"http://localhost/addressbook/",
-    "username":"admin",
-    "password":"secret"
+    "baseUrl":"http://localhost/mantisbt-1.2.19/"
   },
-  "db": {
-    "host":"127.0.0.1",
-    "name":"addressbook",
-    "user":"root",
-    "password":""
+  "webadmin": {
+    "username":"administrator",
+    "password":"root"
   }
 }
